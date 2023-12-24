@@ -30,6 +30,7 @@ header {
   margin: 30px auto 0;
   text-align: center;
   border-top: solid 5px #000000;
+}
 
 header .headline {
   font-size: 32px;
@@ -69,7 +70,6 @@ main {
   height: 250px;
   margin: 10px;
   position: relative;
-
 }
 
 .list-comment {
